@@ -17,7 +17,7 @@ MODERATORS : process.env.MODERATORS === undefined ? "94751549754,94784604369" : 
 MAX_SIZE: process.env.MAX_SIZE === undefined ? '1536': process.env.MAX_SIZE,/*add this in megabytes*/    
 OWNER_NAME: process.env.OWNER_NAME || 'REX' ,
 COMMAND_TYPE: process.env.COMMAND_TYPE || 'button' ,
-LOGO: process.env.LOGO || `https://telegra.ph/file/ab0ea6ad90e2eb98090d9.jpg` ,
+LOGO: process.env.LOGO || `https://telegra.ph/file/e4cd6c5230a8af17cfb1d.jpg` ,
 POSTGRESQL_URL: process.env.POSTGRESQL_URL === undefined ? 'postgres://vajiratech_user:oSIFl2xmSojMZ0rkzdd0g0W6msuVTpNN@dpg-cpd7fjv109ks73e5gtig-a.frankfurt-postgres.render.com/vajiratech' : process.env.POSTGRESQL_URL,
 FOOTER: process.env.FOOTER || '‌👨‍💻 ＶＡＪＩＲＡ -  ＭＤ - Ｖ5 👨‍💻',    
 PREFIX: process.env.PREFIX || '.' ,
